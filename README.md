@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://img.shields.io/badge/JAVA-FFCA28?style=flat-square&logo=#A8B9CC&logoColor=FFCA28"/>
+<img src="https://img.shields.io/badge/JAVA-FFCA28?style=flat-square&logo=#A8B9CC&logoColor=white"/>
 <!--
 **Ahnsukjoo/Ahnsukjoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
