@@ -1,6 +1,4 @@
-<<!DOCTYPE html>
-<html>
-<head>
+
   <style>
     .custom-icon-container {
       display: flex;
@@ -8,16 +6,12 @@
       background-color: white;
     }
   </style>
-</head>
-<body>
 
 <div class="custom-icon-container">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
 </div>
 
-</body>
-</html>
 
 
 <!--## Hello👋
