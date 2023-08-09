@@ -1,7 +1,14 @@
-<div style="display: flex; align-items: flex-start; background-color: white;">
+<div class="custom-icon-container">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
 </div>
+
+.custom-icon-container {
+  display: flex;
+  align-items: flex-start;
+  background-color: white;
+}
+
 
 <!--## Hello👋
 
