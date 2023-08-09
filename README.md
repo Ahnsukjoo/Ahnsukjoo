@@ -1,23 +1,7 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-  .image-container {
-    display: flex;
-    align-items: flex-start;
-    background-color: white; 
-  }
-</style>
-</head>
-<body>
-
-<div class="image-container">
+<div style="display: flex; align-items: flex-start; background-color: white;">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
 </div>
-
-</body>
-</html>
 
 <!--## Hello👋
 
