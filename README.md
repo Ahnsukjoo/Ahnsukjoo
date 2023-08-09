@@ -1,9 +1,23 @@
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /></div>
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  .image-container {
+    display: flex;
+    align-items: flex-start;
+    background-color: white; /* 배경색을 흰색으로 설정 */
+  }
+</style>
+</head>
+<body>
 
-<div style="display: flex; align-items: flex-start; background-color: white;">
+<div class="image-container">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
 </div>
+
+</body>
+</html>
 
 <!--## Hello👋
 
