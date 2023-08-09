@@ -5,7 +5,7 @@
   .image-container {
     display: flex;
     align-items: flex-start;
-    background-color: white; /* 배경색을 흰색으로 설정 */
+    background-color: white; 
   }
 </style>
 </head>
